@@ -3,3 +3,5 @@
  I study in Netology
 
  10.01.2023 
+
+ I like studies 
